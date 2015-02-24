@@ -1,0 +1,6 @@
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\bin\RedPill.dll.config
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\bin\RedPill.dll
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\bin\RedPill.pdb
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\obj\Debug\RedPill.csprojResolveAssemblyReference.cache
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\obj\Debug\RedPill.dll
+c:\users\neo\documents\visual studio 2013\Projects\RedPill\RedPill\obj\Debug\RedPill.pdb
